@@ -1,2 +1,0 @@
-# .github
-EthVaults Github Landing
